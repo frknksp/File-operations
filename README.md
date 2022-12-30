@@ -5,7 +5,7 @@ This C++ program searches for text files in a given directory and its subdirecto
 ## Requirements
 A C++ compiler (e.g. GCC)
 ## Usage
-1. Clone the repository: git clone https://github.com/<your-username>/cpp-text-file-processing.git
+1. Clone the repository: git clone https://github.com/frknksp/File-operations.git
 2. Navigate to the directory: cd cpp-text-file-processing
 3. Compile the program: g++ main.cpp -o main
 4. Run the program: ./main
