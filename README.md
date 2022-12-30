@@ -1,7 +1,6 @@
 
-# File operations with C++
+# C++ Text File Processing
 
-Searching among the text files in the folder and the desired word can be changed.\
-How many of the tagged words are written to the output file.\
-The words in square brackets in text files are tagged words.
+This program searches for text files in a given directory and its subdirectories, and performs various operations on the text files, such as searching for words or tags, replacing words or tags, creating a set of unique tags, and creating a folder.
+
 
