@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1666528246 source:c:\users\frknk\desktop\prolab1\proje\main.cpp
+	<iostream>
+	<locale.h>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<cstring>
+	<vector>
+	<map>
+	<set>
+	<iomanip>
+
+1666528246 source:c:\users\frknk\desktop\furkan_kasap\proje_kodları\main.cpp
+	<iostream>
+	<locale.h>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<cstring>
+	<vector>
+	<map>
+	<set>
+	<iomanip>
+
